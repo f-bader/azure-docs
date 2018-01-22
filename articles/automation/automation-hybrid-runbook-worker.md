@@ -58,7 +58,7 @@ Review the following information regarding the [hardware and software requiremen
 
 Perform the following steps to automate the installation and configuration of the Windows Hybrid Worker role.  
 
-1. Download the *New-OnPremiseHybridWorker.ps1* script from the [PowerShell Gallery](https://www.powershellgallery.com/packages/New-OnPremiseHybridWorker/1.0/DisplayScript) directly from the computer running the Hybrid Runbook Worker role or from another computer in your environment and copy it to the worker.  
+1. Download the *New-OnPremiseHybridWorker.ps1* script from the [PowerShell Gallery](https://www.powershellgallery.com/packages/New-OnPremiseHybridWorker/) directly from the computer running the Hybrid Runbook Worker role or from another computer in your environment and copy it to the worker.  
 
     The *New-OnPremiseHybridWorker.ps1* script requires the following parameters during execution:
 
